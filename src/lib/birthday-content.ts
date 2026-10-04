@@ -11,7 +11,7 @@ export const friend = {
   heroLine:
     "Twenty-six years of you — and of everyone lucky enough to watch, I think I had the best seat.",
   lightPrompt: "Light the candles",
-  blowPrompt: "Blow them out",
+  blowPrompt: "Make a wish and blow out the candles",
   wishLine: "there. now go make it come true.",
 };
 
@@ -49,7 +49,7 @@ export const memoriesSub =
 
 export const reasonsHeading = "Things I probably never say out loud";
 export const reasons = [
-  "Meri kismat itni achi ho sakti thi, ki aao meri life main aaye ye bilkul bhi expect nhi kiya tha 🤧",
+  "Meri kismat itni achi ho sakti thi, ki aap meri life main aaye ye bilkul bhi expect nhi kiya tha 🤧",
   "Mere paas lines nhi hai bolna ko, aapki tareef ke liye bhi words nhi hai 🤭",
   "Mere liye jo app stand lete ho, uff 🥺",
   "jis tarah se aap merko huggy karte ho, uff 😳",
@@ -63,7 +63,7 @@ export const letter = {
   salutation: "Dear Shreya (Billu),",
   body: [
     "Happy Birthday Jungli Billu, May god bless you with loot of happiness, aap jindagi main vo saab hasil karo jo aap karna chahte ho vo aapko mil jaye ",
-    "Aab to aapki aadat si hogyi hai, har din mujhe sirf aab aap chaiye :) , subha uthte hi aap raat ko sone se phele aap cahiye, 24/7 aap chaiye, jis din aapse baat na ho uss din jo meri halat hoti hai, ufff i can't explain, baas yahi chaata hu ki main jaisa bhi hu baas mujhe bhul na jana <3",
+    "Aab to aapki aadat si hogyi hai, har din mujhe sirf aab aap chaiye :) , subha uthte hi aap, raat ko sone se phele aap, 24/7 aap chaiye, jis din aapse baat na ho uss din jo meri halat hoti hai, ufff i can't explain, baas yahi chaata hu ki main jaisa bhi hu baas mujhe bhul na jana <3",
     "Koi Gift to nhi de paya..., kyuki aapne address nhi bheja :( , lekin aapni choti si budhi se ek choti si chij banai hai aapko birthday wish karne ke liye..., hope aapko paasand aaye. And again wish you very happy birthday bachi ❤️",
   ],
   signOff: "All my love,",
